@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Pawan, a Computer Science student with a strong focus on Machine Learning.<br>💻 Proficient in Python and C, I enjoy building intelligent systems and solving real-world problems through data-driven approaches.<br>🤝 Open to collaboration on innovative ML projects and research opportunities.<br>📈 Currently expanding my skills in model development, data analysis, and AI integration.
+👋 Hi, I’m Pawan, a Computer Science student with a strong focus on Machine Learning and GenAI.<br>💻 Proficient in Python and C++, I enjoy building intelligent systems and solving real-world problems through data-driven approaches.<br>🤝 Open to collaboration on innovative ML projects and research opportunities.<br>📈 Currently expanding my skills in model development, data analysis, and AI integration.
 
 
 ## 🌐 Socials:
