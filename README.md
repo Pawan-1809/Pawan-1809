@@ -67,11 +67,15 @@
 
 [![](https://visitcount.itsvg.in/api?id=Pawan-1809&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/pawan1809)
+
 
   
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=130&section=footer&text=Thanks%20for%20visiting&fontSize=28&fontAlignY=70&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer" />
+</p>
+<p align="center">
+  <a href="https://buymeachai.ezee.li/pawan1809">
+    <img src="https://buymeachai.ezee.li/assets/images/buymeachai-button.png" width="150" />
+  </a>
 </p>
