@@ -1,7 +1,8 @@
 <p align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=260&text=Pawan%20Kumar&fontAlign=50&fontAlignY=38&fontSize=62&desc=Django%20Developer%20•%20ML%20Engineer&descAlign=50&descAlignY=65&animation=twinkling&color=0:6366f1,50:0ea5e9,100:9333ea)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2200&pause=600&color=22D3EE&center=true&vCenter=true&width=900&height=120&lines=%F0%9F%9A%80+Designing+Scalable+Backends;⚙️+Django+%7C+REST+APIs+%7C+System+Design;🤖+Integrating+Machine+Learning+into+Products;📈+Optimizing+Performance+%26+Reliability;🔥+From+Idea+%E2%86%92+Production)
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Pawan%20Kumar&fontAlign=50&fontAlignY=30&fontSize=62&desc=Django%20Developer%20•%20ML%20Engineer&descAlign=50&descAlignY=57&animation=twinkling&color=0:6366f1,50:0ea5e9,100:9333ea" width="100%" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2200&pause=600&color=22D3EE&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%9A%80+Designing+Scalable+Backends;⚙️+Django%20%7C%20REST%20APIs%20%7C%20System%20Design;🤖+Integrating+Machine+Learning+into+Products;📈+Optimizing+Performance+%26+Reliability;🔥+From+Idea+%E2%86%92+Production" />
 
 </p>
 
